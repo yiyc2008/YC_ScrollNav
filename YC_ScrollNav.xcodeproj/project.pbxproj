@@ -13,6 +13,14 @@
 		B63A35751C20555C00B88302 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B63A35731C20555C00B88302 /* Main.storyboard */; };
 		B63A35771C20555C00B88302 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = B63A35761C20555C00B88302 /* Assets.xcassets */; };
 		B63A357A1C20555C00B88302 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B63A35781C20555C00B88302 /* LaunchScreen.storyboard */; };
+		B63A35911C20559600B88302 /* FiveViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A35831C20559600B88302 /* FiveViewController.m */; };
+		B63A35921C20559600B88302 /* FourViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A35851C20559600B88302 /* FourViewController.m */; };
+		B63A35931C20559600B88302 /* OneViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A35871C20559600B88302 /* OneViewController.m */; };
+		B63A35941C20559600B88302 /* SixViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A35891C20559600B88302 /* SixViewController.m */; };
+		B63A35951C20559600B88302 /* ThreeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A358B1C20559600B88302 /* ThreeViewController.m */; };
+		B63A35961C20559600B88302 /* TwoViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A358D1C20559600B88302 /* TwoViewController.m */; };
+		B63A35971C20559600B88302 /* YC_ScrollNav.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A35901C20559600B88302 /* YC_ScrollNav.m */; };
+		B63A359A1C2055B500B88302 /* TestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B63A35991C2055B500B88302 /* TestViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +34,22 @@
 		B63A35761C20555C00B88302 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		B63A35791C20555C00B88302 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		B63A357B1C20555C00B88302 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B63A35821C20559600B88302 /* FiveViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FiveViewController.h; sourceTree = "<group>"; };
+		B63A35831C20559600B88302 /* FiveViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FiveViewController.m; sourceTree = "<group>"; };
+		B63A35841C20559600B88302 /* FourViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FourViewController.h; sourceTree = "<group>"; };
+		B63A35851C20559600B88302 /* FourViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FourViewController.m; sourceTree = "<group>"; };
+		B63A35861C20559600B88302 /* OneViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = OneViewController.h; sourceTree = "<group>"; };
+		B63A35871C20559600B88302 /* OneViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = OneViewController.m; sourceTree = "<group>"; };
+		B63A35881C20559600B88302 /* SixViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SixViewController.h; sourceTree = "<group>"; };
+		B63A35891C20559600B88302 /* SixViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SixViewController.m; sourceTree = "<group>"; };
+		B63A358A1C20559600B88302 /* ThreeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ThreeViewController.h; sourceTree = "<group>"; };
+		B63A358B1C20559600B88302 /* ThreeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ThreeViewController.m; sourceTree = "<group>"; };
+		B63A358C1C20559600B88302 /* TwoViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TwoViewController.h; sourceTree = "<group>"; };
+		B63A358D1C20559600B88302 /* TwoViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TwoViewController.m; sourceTree = "<group>"; };
+		B63A358F1C20559600B88302 /* YC_ScrollNav.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = YC_ScrollNav.h; sourceTree = "<group>"; };
+		B63A35901C20559600B88302 /* YC_ScrollNav.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = YC_ScrollNav.m; sourceTree = "<group>"; };
+		B63A35981C2055B500B88302 /* TestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TestViewController.h; sourceTree = "<group>"; };
+		B63A35991C2055B500B88302 /* TestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TestViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,10 +82,14 @@
 		B63A35691C20555C00B88302 /* YC_ScrollNav */ = {
 			isa = PBXGroup;
 			children = (
+				B63A35811C20559600B88302 /* OtherVC */,
+				B63A358E1C20559600B88302 /* YC_ScrollNav */,
 				B63A356D1C20555C00B88302 /* AppDelegate.h */,
 				B63A356E1C20555C00B88302 /* AppDelegate.m */,
 				B63A35701C20555C00B88302 /* ViewController.h */,
 				B63A35711C20555C00B88302 /* ViewController.m */,
+				B63A35981C2055B500B88302 /* TestViewController.h */,
+				B63A35991C2055B500B88302 /* TestViewController.m */,
 				B63A35731C20555C00B88302 /* Main.storyboard */,
 				B63A35761C20555C00B88302 /* Assets.xcassets */,
 				B63A35781C20555C00B88302 /* LaunchScreen.storyboard */,
@@ -77,6 +105,34 @@
 				B63A356B1C20555C00B88302 /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		B63A35811C20559600B88302 /* OtherVC */ = {
+			isa = PBXGroup;
+			children = (
+				B63A35821C20559600B88302 /* FiveViewController.h */,
+				B63A35831C20559600B88302 /* FiveViewController.m */,
+				B63A35841C20559600B88302 /* FourViewController.h */,
+				B63A35851C20559600B88302 /* FourViewController.m */,
+				B63A35861C20559600B88302 /* OneViewController.h */,
+				B63A35871C20559600B88302 /* OneViewController.m */,
+				B63A35881C20559600B88302 /* SixViewController.h */,
+				B63A35891C20559600B88302 /* SixViewController.m */,
+				B63A358A1C20559600B88302 /* ThreeViewController.h */,
+				B63A358B1C20559600B88302 /* ThreeViewController.m */,
+				B63A358C1C20559600B88302 /* TwoViewController.h */,
+				B63A358D1C20559600B88302 /* TwoViewController.m */,
+			);
+			path = OtherVC;
+			sourceTree = "<group>";
+		};
+		B63A358E1C20559600B88302 /* YC_ScrollNav */ = {
+			isa = PBXGroup;
+			children = (
+				B63A358F1C20559600B88302 /* YC_ScrollNav.h */,
+				B63A35901C20559600B88302 /* YC_ScrollNav.m */,
+			);
+			path = YC_ScrollNav;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -150,9 +206,17 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B63A35911C20559600B88302 /* FiveViewController.m in Sources */,
 				B63A35721C20555C00B88302 /* ViewController.m in Sources */,
+				B63A35971C20559600B88302 /* YC_ScrollNav.m in Sources */,
+				B63A35941C20559600B88302 /* SixViewController.m in Sources */,
+				B63A35921C20559600B88302 /* FourViewController.m in Sources */,
+				B63A35931C20559600B88302 /* OneViewController.m in Sources */,
 				B63A356F1C20555C00B88302 /* AppDelegate.m in Sources */,
+				B63A359A1C2055B500B88302 /* TestViewController.m in Sources */,
+				B63A35961C20559600B88302 /* TwoViewController.m in Sources */,
 				B63A356C1C20555C00B88302 /* main.m in Sources */,
+				B63A35951C20559600B88302 /* ThreeViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
