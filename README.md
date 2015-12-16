@@ -1,0 +1,4 @@
+# YC_ScrollNav
+本框架模仿网易新闻界面实现
+用法：
+创建一个控制器继承自YCScrollNav，在控制器中添加一些控制器即可。可参考项目中的TestViewController文件
